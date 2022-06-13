@@ -1,0 +1,807 @@
+@media(min-width: 300px) and (max-width: 419.9px){
+
+	.navbar-brand img {
+		width:80px;
+	}
+	nav .social-icon ul li a {
+
+    padding: 3px 6px!important;
+  
+    border-radius: 4px;
+    font-size: 12px;
+}
+nav .navbar-collapse ul li a, nav .navbar-collapse ul li .active {
+    color: white!important;
+    padding: 7px 0px!important;
+    font-size: 14px !important;
+}
+.team-section .team h1 {
+ 
+    font-size: 35px;
+    line-height: 119%;
+    padding-top: 0px;
+}
+.team-section .team p {
+    
+    font-size: 16px;
+    line-height: 134%;
+}
+.team-section .team {
+    padding-bottom: 20px;
+}
+.team-section .team a {
+    padding: 3px 8px;
+   
+    font-size: 15px;
+
+ 
+}
+.etium-section h1 {
+   
+    font-size: 30px;
+    line-height: 104%;
+   
+}
+.etium-section h5 {
+    padding-bottom: 20px;
+  
+    font-size: 14px;
+    line-height: 118%;
+
+}
+.etium-section .etium h2 {
+
+    font-size: 27px;
+    line-height: 113%;
+    padding: 23px 0px 0px 0px;
+  
+}
+.etium-section p {
+    padding-bottom: 0px;
+   
+    font-size: 15px;
+    line-height: 129%;
+   
+}
+.disc-section {
+    padding: 0px 0px 0px 0px;
+}
+.disc-section .disc h2 {
+ 
+    font-size: 27px;
+    line-height: 113%;
+    padding: 0px 0px 0px 0px;
+ 
+}
+.disc-section .disc p {
+    padding-bottom: 6px;
+
+    font-size: 15px;
+    line-height: 129%;
+  
+}
+.share-section .share {
+    padding-top: 0px;
+}
+.share-section {
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+}
+.create-section {
+    padding: 30px 0px;
+}
+.create-section .container {
+    background-color: blue;
+    padding: 13px;
+    border-radius: 20px;
+}
+.create-section .create h1 {
+
+    font-size: 35px;
+    line-height: 114%;
+    padding-top: 10px;
+ 
+}
+.create-section .create p {
+ 
+    font-size: 14px;
+    line-height: 19px;
+   
+    padding: 0px 0px 0px 0px;
+
+}
+.create-section .create input {
+    padding: 2px;
+    border-radius: 5px;
+    border: none;
+    width: 181px;
+    font-size: 14px;
+
+}
+.create-section .create {
+    padding-bottom: 20px;
+}
+
+
+
+.create-section .create button {
+    padding: 2px 6px;
+    border-radius: 5px;
+    font-size: 14px;
+ }
+ .create-section .create img {
+    border-radius: 20px;
+
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic img {
+    height: 70px;
+    object-fit: cover;
+    margin: auto;
+}
+.slider-section {
+    padding: 130px 0px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   display:none;
+}
+.slider-section .span {
+   
+    margin-bottom: 22px;
+    margin-top: 6px;
+}
+.carousel-indicators {
+  
+    margin-bottom: -3rem;
+  
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 126px !important;
+    margin: auto;
+    padding-bottom: 30px;
+  
+}
+footer .foot input {
+    border: none;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 150px;
+}
+footer .foot button {
+   
+    right: 68px;
+}
+footer .one .footer1 {
+    text-align: center;
+}
+footer .one .footer1 ul {
+    justify-content: center!important;
+    padding-top: 10px!important;
+}
+
+
+
+}
+
+
+
+
+@media(min-width: 420px) and (max-width: 575.9px){
+		.navbar-brand img {
+		width:100px;
+	}
+	nav .social-icon ul li a {
+
+    padding: 4px 09px!important;
+  
+    border-radius: 4px;
+    font-size: 13px;
+}
+nav .navbar-collapse ul li a, nav .navbar-collapse ul li .active {
+    color: white!important;
+    padding: 7px 0px!important;
+    font-size: 14px !important;
+}
+.team-section .team h1 {
+ 
+    font-size: 35px;
+    line-height: 119%;
+    padding-top: 0px;
+}
+.team-section .team p {
+    
+    font-size: 16px;
+    line-height: 134%;
+}
+.team-section .team {
+    padding-bottom: 20px;
+}
+.team-section .team a {
+    padding: 3px 8px;
+   
+    font-size: 15px;
+
+ 
+}
+.etium-section h1 {
+   
+    font-size: 30px;
+    line-height: 104%;
+   
+}
+.etium-section h5 {
+    padding-bottom: 20px;
+  
+    font-size: 14px;
+    line-height: 118%;
+
+}
+.etium-section .etium h2 {
+
+    font-size: 27px;
+    line-height: 113%;
+    padding: 23px 0px 0px 0px;
+  
+}
+.etium-section p {
+    padding-bottom: 0px;
+   
+    font-size: 15px;
+    line-height: 129%;
+   
+}
+.disc-section {
+    padding: 0px 0px 0px 0px;
+}
+.disc-section .disc h2 {
+ 
+    font-size: 27px;
+    line-height: 113%;
+    padding: 0px 0px 0px 0px;
+ 
+}
+.disc-section .disc p {
+    padding-bottom: 6px;
+
+    font-size: 15px;
+    line-height: 129%;
+  
+}
+.share-section .share {
+    padding-top: 0px;
+}
+.share-section {
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+}
+.create-section {
+    padding: 30px 0px;
+}
+.create-section .container {
+    background-color: blue;
+    padding: 13px;
+    border-radius: 20px;
+}
+.create-section .create h1 {
+
+    font-size: 35px;
+    line-height: 114%;
+    padding-top: 10px;
+ 
+}
+.create-section .create p {
+ 
+    font-size: 14px;
+    line-height: 19px;
+   
+    padding: 0px 0px 0px 0px;
+
+}
+.create-section .create input {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 213px;
+    font-size: 16px;
+}
+.create-section .create {
+    padding-bottom: 20px;
+}
+
+
+
+.create-section .create button {
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-size: 16px;
+ }
+ .create-section .create img {
+    border-radius: 20px;
+
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic img {
+    height: 70px;
+    object-fit: cover;
+    margin: auto;
+}
+.slider-section {
+    padding: 130px 0px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   display:none;
+}
+.slider-section .span {
+   
+    margin-bottom: 22px;
+    margin-top: 6px;
+}
+.carousel-indicators {
+  
+    margin-bottom: -3rem;
+  
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 126px !important;
+    margin: auto;
+    padding-bottom: 30px;
+  
+}
+footer .foot input {
+    border: none;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 175px;
+}
+footer .foot button {
+   
+    right: 237px;
+}
+footer .one .footer1 {
+    text-align: center;
+}
+footer .one .footer1 ul {
+    justify-content: center!important;
+    padding-top: 10px!important;
+}
+
+
+
+}
+
+
+
+@media(min-width: 576px) and (max-width: 767.9px){
+
+.navbar-brand img {
+		width:110px;
+	}
+	nav .social-icon ul li a {
+
+    padding: 4px 09px!important;
+  
+    border-radius: 4px;
+    font-size: 13px;
+}
+nav .navbar-collapse ul li a, nav .navbar-collapse ul li .active {
+    color: white!important;
+    padding: 7px 0px!important;
+    font-size: 14px !important;
+}
+.team-section .team h1 {
+ 
+    font-size: 25px;
+    line-height: 118%;
+    padding-top: 0px;
+}
+.team-section .team p {
+    
+    font-size: 15px;
+    line-height: 134%;
+}
+.team-section .team {
+    padding-bottom: 20px;
+}
+.team-section .team a {
+    padding: 3px 8px;
+   
+    font-size: 15px;
+
+ 
+}
+.etium-section h1 {
+   
+    font-size: 28px;
+    line-height: 104%;
+   
+}
+.etium-section h5 {
+    padding-bottom: 20px;
+  
+    font-size: 14px;
+    line-height: 118%;
+
+}
+.etium-section .etium h2 {
+
+    font-size: 25px;
+    line-height: 120%;
+    padding: 0px 0px 0px 0px;
+  
+}
+.etium-section p {
+    padding-bottom: 0px;
+   
+    font-size: 15px;
+    line-height: 129%;
+   
+}
+.disc-section {
+    padding: 0px 0px 0px 0px;
+}
+.disc-section .disc h2 {
+ 
+    font-size: 25px;
+    line-height: 113%;
+    padding: 0px 0px 0px 0px;
+ 
+}
+.disc-section .disc p {
+    padding-bottom: 6px;
+
+    font-size: 15px;
+    line-height: 129%;
+  
+}
+.share-section .share {
+    padding-top: 0px;
+}
+.share-section .share h2 {
+    padding: 10px 0px;
+    font-size: 18px;
+    line-height: 24px;
+   
+}
+.share-section {
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+}
+.share-section p {
+  
+    font-size: 15px;
+    line-height: 129%;
+  
+}
+.create-section {
+    padding: 30px 0px;
+}
+.create-section .container {
+    background-color: blue;
+    padding: 13px;
+    border-radius: 20px;
+}
+.create-section .create h1 {
+
+    font-size: 30px;
+    line-height: 114%;
+    padding-top: 10px;
+ 
+}
+.create-section .create p {
+ 
+    font-size: 14px;
+    line-height: 19px;
+   
+    padding: 0px 0px 0px 0px;
+
+}
+.create-section .create input {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 165px;
+    font-size: 16px;
+}
+.create-section .create {
+    padding-bottom: 0px;
+}
+
+
+
+.create-section .create button {
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-size: 16px;
+ }
+ .create-section .create img {
+    border-radius: 20px;
+
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic img {
+    height: 70px;
+    object-fit: cover;
+    margin: auto;
+}
+.slider-section {
+    padding: 130px 0px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   display:none;
+}
+.slider-section .span {
+   
+    margin-bottom: 22px;
+    margin-top: 6px;
+}
+.carousel-indicators {
+  
+    margin-bottom: -3rem;
+  
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 126px !important;
+    margin: auto;
+    padding-bottom: 30px;
+  
+}
+footer .foot input {
+    border: none;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 175px;
+}
+footer .foot button {
+   
+    right: 278px;
+}
+footer .one .footer1 {
+    text-align: center;
+}
+footer .one .footer1 ul {
+    justify-content: center!important;
+    padding-top: 10px!important;
+}
+
+
+
+
+
+}
+
+
+
+@media(min-width: 768px) and (max-width: 991.9px){
+
+.navbar-brand img {
+		width:120px;
+	}
+	nav .social-icon ul li a {
+
+    padding: 4px 09px!important;
+  
+    border-radius: 4px;
+    font-size: 13px;
+}
+nav .navbar-collapse ul li a, nav .navbar-collapse ul li .active {
+    color: white!important;
+    padding: 7px 0px!important;
+    font-size: 14px !important;
+}
+.team-section .team h1 {
+ 
+    font-size: 40px;
+    line-height: 118%;
+    padding-top: 0px;
+}
+.team-section .team p {
+    
+    font-size: 16px;
+    line-height: 134%;
+}
+.team-section .team {
+    padding-bottom: 20px;
+}
+.team-section .team a {
+    padding: 5px 12px;
+   
+    font-size: 15px;
+
+ 
+}
+.etium-section h1 {
+   
+    font-size: 32px;
+    line-height: 104%;
+   
+}
+.etium-section h5 {
+    padding-bottom: 20px;
+  
+    font-size: 14px;
+    line-height: 118%;
+
+}
+.etium-section .etium h2 {
+
+    font-size: 34px;
+    line-height: 120%;
+    padding: 0px 0px 16px 0px;
+  
+}
+.etium-section p {
+    padding-bottom: 0px;
+   
+    font-size: 15px;
+    line-height: 150%;
+   
+}
+.disc-section {
+    padding: 0px 0px 0px 0px;
+}
+.disc-section .disc h2 {
+ 
+    font-size: 34px;
+    line-height: 120%;
+    padding: 0px 0px 0px 0px;
+ 
+}
+.disc-section .disc p {
+    padding-bottom: 6px;
+
+    font-size: 15px;
+    line-height: 150%;
+  
+}
+.share-section .share {
+    padding-top: 0px;
+}
+.share-section .share h2 {
+    padding: 10px 0px;
+    font-size: 18px;
+    line-height: 24px;
+   
+}
+.share-section {
+    padding: 50px 0px 0px 0px;
+    text-align: center;
+}
+.share-section p {
+  
+    font-size: 15px;
+    line-height: 129%;
+    padding-bottom: 30px;
+  
+}
+.create-section {
+    padding: 30px 0px;
+}
+.create-section .container {
+    background-color: blue;
+    padding: 13px;
+    border-radius: 20px;
+}
+.create-section .create h1 {
+
+    font-size: 40px;
+    line-height: 150%;
+    padding-top: 20px;
+ 
+}
+.create-section .create p {
+ 
+    font-size: 14px;
+    line-height: 19px;
+   
+    padding: 0px 0px 0px 0px;
+
+}
+.create-section .create input {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 165px;
+    font-size: 16px;
+}
+.create-section .create {
+    padding-bottom: 0px;
+}
+
+
+
+.create-section .create button {
+    padding: 5px 5px;
+    border-radius: 5px;
+    font-size: 16px;
+ }
+ .create-section .create img {
+    border-radius: 20px;
+
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic img {
+    height: 70px;
+    object-fit: cover;
+    margin: auto;
+}
+.slider-section {
+    padding: 50px 0px;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span {
+   display:none;
+}
+.slider-section .span {
+   
+    margin-bottom: 22px;
+    margin-top: 6px;
+}
+.carousel-indicators {
+  
+    margin-bottom: -3rem;
+  
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p {
+    width: 126px !important;
+    margin: auto;
+    padding-bottom: 30px;
+  
+}
+footer .foot input {
+    border: none;
+    padding: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    width: 150px;
+}
+footer .foot button {
+   
+    right: 23px;
+}
+footer .foo {
+    background-color: #2851E3;
+    padding: 15px;
+    position: relative;
+}
+footer .one .footer1 {
+    text-align: center;
+}
+footer .one .footer1 ul {
+    justify-content: center!important;
+    padding-top: 10px!important;
+}
+
+
+
+
+
+
+}
+
+
+
+@media(min-width: 992px) and (max-width: 1199.9px){
+
+.team-section .team h1 {
+  
+    font-size: 49px;
+    line-height: 127%;
+    padding-top: 7px;
+  
+}
+.create-section .create h1 {
+ 
+    font-size: 48px;
+    line-height: 114%;
+    padding-top: 36px;
+  
+}
+footer .foot button {
+   
+
+   
+ 
+    right: 43px;
+}
+
+
+
+}

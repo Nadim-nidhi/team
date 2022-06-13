@@ -1,0 +1,473 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	 font-family: 'Manrope', sans-serif;
+
+}
+
+.navbar{
+	background:blue!important;
+}
+nav .navbar-collapse ul li a,nav .navbar-collapse ul li .active{
+	color:white!important;
+	padding: 0px 20px!important;
+	font-size: 16px !important;
+}
+
+nav .social-icon ul li a{
+	color:blue!important;
+	padding: 5px 10px!important;
+	background-color: white;
+	border-radius:6px;
+}
+
+/*team-section start************************************************/
+.team-section{
+	background-color: black;
+	padding: 100px 0px 50px 0px;
+}
+.team-section .team{}
+.team-section .team h1{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 61px;
+line-height: 120%;
+padding-top: 40px;
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.team-section .team p{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+
+color: #666666;
+}
+.team-section .team a{
+	padding: 5px 15px ;
+	background-color: blue;
+	color:white;
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 25px;
+text-decoration: none;
+}
+.team-section .we{}
+.team-section .we .img{}
+
+
+
+/*team-section end************************************************/
+
+
+/*etium-section start************************************************/
+.etium-section{
+	padding: 50px 0px ;
+	text-align: center;
+}
+.etium-section h1{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 114%;
+/* identical to box height, or 55px */
+
+
+text-transform: capitalize;
+
+/* systemGrey/900 */
+
+color: #212121;
+}
+.etium-section h5{
+	padding-bottom: 50px;
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+
+
+color: #757575;
+
+}
+.etium-section p{
+	padding-bottom: 50px;
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+text-align: justify;
+
+color: #757575;
+}
+.etium-section .etium{
+	text-align: left;
+}
+.etium-section .etium img{
+	border-radius: 20px;
+
+
+}
+.etium-section .etium h2{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+padding: 60px 0px 30px 0px;
+text-align: left;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+
+/* systemGrey/900 */
+
+color: #212121;
+}
+
+/*etium-section end************************************************/
+
+
+
+/*disc-section start************************************************/
+  .disc-section{
+  	padding: 50px 0px;
+  }
+  .disc-section .we{
+  	text-align: right;
+  }
+  .disc-section .disc h2{
+  		font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 120%;
+padding: 60px 0px 30px 0px;
+text-align: left;
+display: flex;
+align-items: center;
+text-transform: capitalize;
+  }
+  .disc-section .disc p{
+  		padding-bottom: 50px;
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 150%;
+text-align: justify;
+
+color: #757575;
+  }
+  .disc-section .disc img{
+  	border-radius: 20px;
+  }
+
+
+/*disc-section end************************************************/
+
+
+/*share-section start************************************************/
+.share-section{
+	padding: 50px 0px;
+	text-align: center;
+}
+.share-section p{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+
+text-align: center;
+
+/* systemGrey/700 */
+
+color: #616161;
+}
+.share-section h1{}
+.share-section .share{
+	padding-top: 50px;
+}
+.share-section .share h2{
+	padding: 20px 0px;
+
+font-size: 22px;
+line-height: 27px;
+/* identical to box height */
+
+
+letter-spacing: 0.2px;
+text-transform: capitalize;
+
+/* systemGrey/900 */
+
+color: #212121;
+}
+.share-section .share img{}
+.share-section .share p{}
+
+
+/*share-section end************************************************/
+
+
+
+/*create-section start************************************************/
+.create-section{
+	padding: 50px 0px;
+}
+.create-section .container{
+	background-color: blue;
+	padding: 50px;
+	border-radius: 20px;
+}
+.create-section .create{}
+.create-section .create h1{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 114%;
+padding-top: 80px;
+
+text-transform: capitalize;
+
+color: #FFFFFF;
+}
+.create-section .create p{
+	font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2px;
+text-transform: capitalize;
+padding: 20px 0px 40px 0px ;
+color: #FFFFFF;
+}
+.create-section .create input{
+	padding: 5px;
+	border-radius: 5px;
+	border: none;
+	width: 250px;
+}
+.create-section .create button{
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: none;
+	background-color: black;
+	color:white;
+
+}
+.create-section .create img{
+	border-radius: 20px;
+}
+
+
+
+/*create-section end************************************************/
+
+
+/*CLIENTS-section START************************************************/
+
+.slider-section{}
+.slider-section h6{
+	font-size: 22px;
+	
+	font-family: 'Montserrat', sans-serif;
+	color:#2B2B2B;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+.slider-section .span{
+	display:block;
+	width:70px;
+	height:3px;
+	background-color: orange;
+	margin:auto;
+	margin-bottom: 74px;
+	margin-top: 26px;
+}
+.slider-section .carousel .carousel-caption {
+	color:black;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic{
+	text-align: center;
+	position: relative;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic img{
+	height: 100px;
+	object-fit: cover;
+	margin: auto;
+}
+.slider-section .carousel .carousel-inner .carousel-item .pic span{
+	position: absolute;
+	background-color: #fa8e2b;
+	width:50px;
+	height:50px;
+	color:#fff;
+	border-radius: 50%;
+	line-height: 45px;
+	bottom:-10px;
+	right:44%;
+	border:3px solid #fff;
+
+}
+.slider-section .carousel .carousel-indicators button{
+
+	font-size: 30px;
+	background-color:black;
+
+
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption{
+	position:static;
+}
+.slider-section .carousel .carousel-control-prev span{
+	font-size:30px;
+	color:black;
+}
+.slider-section .carousel .carousel-control-next span{
+	font-size:30px;
+	color:black;
+}
+.slider-section .carousel .carousel-inner .carousel-item .carousel-caption p{
+	width:700px;
+	margin:auto;
+	padding-bottom: 30px;
+}
+
+/*CLIENTS-section end************************************************/
+
+/*footer-section start************************************************/
+footer {
+	background-color:  #3563E9;
+	padding: 50px 0px ;
+}
+footer .foot{}
+footer .foot h1{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+/* white */
+
+color: #FFFFFF;
+}
+footer .foot ul{}
+footer .foot ul li{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+/* white */
+
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+footer .foot input {
+	border:none;
+	padding: 5px;
+	border-bottom-left-radius: 5px;
+	border-top-left-radius: 5px;
+
+	
+
+}
+footer .foot button{
+	border:none;
+	padding: 5px 10px;
+	background-color:  #3563E9;
+	border-bottom-right-radius: 5px;
+	border-top-right-radius: 5px;
+	position:absolute;
+right:98px;
+
+}
+footer .foot button i{
+	
+	color:white;
+	font-size: 16px;
+}
+footer .foot p{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+text-align: justify;
+color: #FFFFFF;
+
+opacity: 0.7;
+}
+footer .foo{
+	background-color: #2851E3;
+	padding: 30px;
+	position: relative;
+}
+
+footer .foo h1{
+	padding-bottom: 20px;
+}
+footer .foo p{
+	padding-top: 20px;
+}
+
+footer .one{
+
+
+}
+footer .one span{
+	display:block;
+	width: 100%;
+	height:1px;
+	background-color: white;
+	opacity:0.2;
+	margin:20px 0px;
+	
+}
+footer .one .footer1{}
+footer .one .footer1 img{}
+footer .one .footer1 ul{}
+footer .one .footer1 ul li{
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+padding: 0px 10px;
+
+color: #FFFFFF;
+}
+footer .one .footer1 ul li i {}
+
+
+/*footer-section end************************************************/
